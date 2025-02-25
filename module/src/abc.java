@@ -1,5 +1,5 @@
 public class abc {
     public static void main(String[] args) {
-        System.out.println("Test Lab I - MPP");
+        System.out.println("Test Lab I - MPP again");
     }
 }
